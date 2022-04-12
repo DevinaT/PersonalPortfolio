@@ -100,7 +100,7 @@
 
 .home{
     display: flex;  
-    background-image: url("C:/Users/devin/Documents/Dubvelopers/background.png");
+    background-image: url("background.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 1600px;
